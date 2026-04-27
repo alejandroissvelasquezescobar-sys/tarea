@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(115, 173, 115);
+}
+.header{
+    background-color: rgb(167, 120, 211);
+    height: 75px;
+}
+.container-fluid{
+    background-color: rgb(100, 136, 148);
+}
+.navbar-nav{
+    height: 80px;
+}
+.cont{
+    background-color: rgb(184, 159, 117);
+    height:500px ;
+}
+.pie{
+    background-color: rgb(180, 169, 107);
+    height: 100px;
+}

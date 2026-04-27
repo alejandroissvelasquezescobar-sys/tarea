@@ -1,0 +1,32 @@
+/* para celular */
+body{
+    background-color: blue;
+}
+.navbar-nav{
+    height: 80px;
+}
+.container-fluid{
+    background-color: brown;
+}
+.col{
+    background-color: coral;
+    height: 500px;
+}
+.colum{
+    background-color: darkgreen;
+    height: 100px;
+}
+.header{
+    background-color: darkolivegreen;
+    height: 75px;
+}
+.carousel-inner{
+    height: 400px;
+}
+.d-block{
+    height: 380px;
+    width: 100px;
+}
+p{
+    color: black;
+}
